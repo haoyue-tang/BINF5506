@@ -1,1 +1,1 @@
-BINF5506
+Repo for course BINF5506
