@@ -1,0 +1,2 @@
+SyntaxError in file /home/ubuntu/BINF5506/Snakefile, line 85:
+Unexpected keyword import in rule definition (Snakefile, line 85)
